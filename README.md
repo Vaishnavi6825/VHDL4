@@ -4,7 +4,8 @@ It has two inputs and two outputs: the difference and the borrow.  <br>
 Outputs: Difference (Diff): Represents the result of A - B.  <br>
 Borrow: Indicates whether a 1 has been borrowed from a higher bit in case A is smaller than B. <br>
 
-`Aim`:
+`Aim`:<br>
+
 To design and implement a Half Subtractor using Verilog HDL, and verify its functionality through simulation.
 
 `Apparatus Required:`
